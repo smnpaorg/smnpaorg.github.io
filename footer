@@ -1,0 +1,27 @@
+</div>
+</div>
+
+<div id="sidebar"><div id="inner">
+<!-- a href="http://www.smnpa.org/calendar/" id="calendar">Calendar</a -->
+<div style="height:20px;"><!-- --></div>
+<a href="/who-are-we">Who Are We?</a>
+<a href="/smnpa_values">Our Mission & Values</a>
+<a href="/value-of-diversity">Value of Diversity</a>
+<a href="/farmers-market/">Graham County Farmers Market</a>
+<a href="/products" style="border:0px none;">Smoky Mountain Heritage Products</a>
+<br>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="4ECQYYKUTUZVS">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img style="border:0;" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</div></div>
+<hr/>
+<div id="footer">© Smoky Mountain Native Plants Association, P.O. Box 761, Robbinsville, NC 28771, Phone: 828-479-8788</div>
+
+</div>
+</body>
+</html>
